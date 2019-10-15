@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\bin\Debug\netcoreapp2.1\ReferenceTypeVsValueType.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\bin\Debug\netcoreapp2.1\ReferenceTypeVsValueType.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\bin\Debug\netcoreapp2.1\ReferenceTypeVsValueType.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\bin\Debug\netcoreapp2.1\ReferenceTypeVsValueType.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\bin\Debug\netcoreapp2.1\ReferenceTypeVsValueType.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\obj\Debug\netcoreapp2.1\ReferenceTypeVsValueType.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\obj\Debug\netcoreapp2.1\ReferenceTypeVsValueType.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\obj\Debug\netcoreapp2.1\ReferenceTypeVsValueType.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\obj\Debug\netcoreapp2.1\ReferenceTypeVsValueType.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\obj\Debug\netcoreapp2.1\ReferenceTypeVsValueType.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\ReferenceTypeVsValueType\obj\Debug\netcoreapp2.1\ReferenceTypeVsValueType.pdb
